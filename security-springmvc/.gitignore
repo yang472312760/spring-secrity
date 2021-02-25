@@ -1,0 +1,28 @@
+# Maven #
+target/
+
+#log#
+logs/
+
+# IDEA #
+.idea/
+*.iml
+
+# Eclipse #
+.settings/
+.metadata/
+.classpath
+.project
+Servers/
+*.class
+
+# Mac #
+.DS_Store
+/.factorypath
+/.checkstyle
+/.scannerwork
+
+/bin
+/watermark.png
+
+
